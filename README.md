@@ -5,9 +5,9 @@ small arcade-style cabinets for displaying creative coding outcomes. I call
 these cabinets 'Huey', 'Dewey', and 'Louie'.
 
 This repository contains files and instructions for fabrication of the
-cabinets. There is an associated repository which contains software for
-running an interactive showcase application on a raspberry pi to show p5js
-creative coding sketches on the cabinets.
+cabinets. There is also a repository for a [Creative Coding Showcase], which
+is stand-alone showcase application that can run on a raspberry pi to show
+p5js creative coding sketches on the cabinets.
 
 ![Three Creative Coding Cabinets](images/three-cabinets.gif)
 
@@ -198,3 +198,4 @@ This work is licensed under a
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
+[Creative Coding Showcase]: https://github.com/awarua/creative-coding-showcase
